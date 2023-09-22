@@ -1,1 +1,10 @@
 
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "uz.agrobank.mobile.mbank",
+    "sha256_cert_fingerprints":
+    ["B5:84:C0:84:E7:23:39:71:E4:71:6E:F8:2C:F1:A1:D6:7C:67:00:35:C4:AD:DF:98:BD:85:B6:64:34:1E:A4:44"]
+  }
+}]
